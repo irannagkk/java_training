@@ -1,0 +1,9 @@
+1's compliment:
+=================
+The ones' complement of a binary number is the value obtained by inverting all the bits in the binary representation of the number (swapping 0s and 1s).
+A ones' complement system or ones' complement arithmetic is a system in which negative numbers are represented by the inverse of the binary representations of their corresponding positive numbers.
+
+2's compliment:
+=================
+wo's complement is a mathematical operation on binary numbers, and is an example of a radix complement. It is used in computing as a method of signed number representation.
+The two's complement of an N-bit number is defined as its complement with respect to 2N; the sum of a number and its two's complement is 2N. For instance, for the three-bit number 0102, the two's complement is 1102, because 0102 + 1102 = 10002 = 810 which is equal to 23. The two's complement is calculated by inverting the bits and adding one.
